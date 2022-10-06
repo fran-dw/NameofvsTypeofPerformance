@@ -19,3 +19,5 @@ https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/nam
 https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/type-testing-and-cast#typeof-operator
 
 https://learn.microsoft.com/en-us/visualstudio/ide/reference/convert-typeof-to-nameof?view=vs-2022
+
+https://learn.microsoft.com/en-us/dotnet/api/system.object.gettype?view=net-6.0
