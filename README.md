@@ -1,4 +1,4 @@
-# nameof() vs typeof() Performance Benchmarks In NET 6.0
+# nameof() vs typeof().Name vs GetType().Name Performance Benchmarks In NET 6.0
 
 Obtaining the name of a program entity can be achieved in several ways.
 Some of which are `nameof(...)`, `typeof(...).Name` or `Object.GetType().Name`
